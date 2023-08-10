@@ -7,5 +7,5 @@ function Movie(){
         alert("Попробуйте еще раз!")
     }
 }
-Movie()
+
 
